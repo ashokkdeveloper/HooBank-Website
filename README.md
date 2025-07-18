@@ -6,11 +6,15 @@ Modern responsive business website design made with React and Tailwind CSS.
 
 Live demo can be found under this [**link**](https://business-website-template.onrender.com/).
 
+## 📸 Preview
+
 <img width="100%" alt="HooBank Preview" src="https://github.com/user-attachments/assets/e68a4d6d-2619-4edb-9f3d-7389ee239e84" />
 
 
 
-## Layout
+---
+
+## 📐 Layout Sections
 - Header
 - Hero section
 - Features section
@@ -21,10 +25,14 @@ Live demo can be found under this [**link**](https://business-website-template.o
 - Call to action section
 - Footer
 
-## Built With
+---
+
+## 🛠️ Built With
+
 - React.js
 - Tailwind CSS
 - Vite
 
 ## Acknowledgments
+- Placeholder assets used for demo purposes only
 - [**Original Figma Design**](https://www.figma.com/file/bUGIPys15E78w9bs1l4tgS/HooBank?node-id=310%3A485&t=Jkk7MU9hZJ5HoVph-0)
